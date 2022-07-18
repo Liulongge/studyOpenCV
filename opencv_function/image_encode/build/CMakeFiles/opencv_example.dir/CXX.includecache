@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/studyML/cpp/opencv_function/image_encode/main.cpp
+iostream
+-
+opencv2/opencv.hpp
+-
+sys/time.h
+-
+

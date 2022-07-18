@@ -1,0 +1,3 @@
+/root/studyML/cpp/opencv_function/image_preproc/build/CMakeFiles/rebuild_cache.dir
+/root/studyML/cpp/opencv_function/image_preproc/build/CMakeFiles/opencv_example.dir
+/root/studyML/cpp/opencv_function/image_preproc/build/CMakeFiles/edit_cache.dir
