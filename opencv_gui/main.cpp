@@ -1,6 +1,6 @@
 #include<opencv2/highgui.hpp>
 #include<opencv2/opencv.hpp>
-using namespace cv;
+using namespace ml_cv;
 using namespace std;
 #define WINDOW_NAME "鼠标响应事件"
 //每次鼠标事件发生的时候，该函数都被调用。其中，event指的是鼠标事件，x和y代表
